@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="share">分享给童鞋</string>
+    <string name="no_email">需先安装邮件应用并设置账户, 或直接发送邮件至 huanggaojun13@gmail.com</string>
+</resources>
