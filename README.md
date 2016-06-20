@@ -3,9 +3,10 @@ Android Common Util
 
 This is android develop common utils library.
 
-Usage
+Import
 ---
 
+Step 1. Add it in your project's build.gradle at the end of repositories:
 ```
 
 allprojects {
@@ -14,6 +15,12 @@ allprojects {
         maven { url "https://jitpack.io" }
     }
 }
+
+```
+
+Step 2. Add the dependency:
+```
+
 dependencies {
     ...
     compile 'com.github.Freelander:CommonUtil:0.1.3'
