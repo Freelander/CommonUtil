@@ -7,6 +7,11 @@ import android.text.TextUtils;
 
 /**
  * Created by Jun on 2016/4/21.
+ *
+ * 描述：获取应用信息工具类
+ *
+ * @author Jun
+ * @version v0.1.3
  */
 public class SystemUtil {
     /**

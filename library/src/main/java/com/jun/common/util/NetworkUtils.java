@@ -7,6 +7,11 @@ import android.telephony.TelephonyManager;
 
 /**
  * Created by Jun on 2016/1/7.
+ *
+ * 描述：监听网络状态工具类
+ *
+ * @author Jun
+ * @version v0.1.3
  */
 public class NetworkUtils {
     public static boolean isNetworkAvailable(Context c) {

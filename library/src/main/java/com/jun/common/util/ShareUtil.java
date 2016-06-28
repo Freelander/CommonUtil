@@ -13,6 +13,11 @@ import java.util.List;
 
 /**
  * Created by Jun on 2016/4/21.
+ *
+ * 描述：系统分享工具类
+ *
+ * @author Jun
+ * @version v0.1.3
  */
 public class ShareUtil {
 
