@@ -5,8 +5,12 @@ import android.util.Log;
 import com.orhanobut.logger.Logger;
 
 /**
- * 日志管理工具
+ *
  * Created by Jun on 2016/2/25.
+ * 描述：日志管理工具
+ *
+ * @author Jun
+ * @version 0.1.4
  */
 public class LogUtil {
 
